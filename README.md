@@ -1,2 +1,2 @@
-# wiki-one-piece-pr-tica-14-
-Wikipédia de One Piece
+
+Wikipédia de One Piece criada pra aula prática 14 da Faculdade Descomplica.
